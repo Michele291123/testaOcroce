@@ -1,0 +1,1 @@
+sistema intuitivo per lanciare virtualmente una moneta, e sapere se esce testa o croce
